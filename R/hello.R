@@ -1,6 +1,6 @@
 #' Say hello
 #'
-#' A simple greeting function.
+#' A simple greeting function. How exciting.
 #'
 #' @param name A string. The name to greet.
 #'
